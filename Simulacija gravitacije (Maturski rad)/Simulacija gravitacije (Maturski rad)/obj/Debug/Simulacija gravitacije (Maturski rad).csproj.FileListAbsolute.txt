@@ -1,0 +1,21 @@
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\bin\Debug\Simulacija gravitacije (Maturski rad).exe.config
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\bin\Debug\Simulacija gravitacije (Maturski rad).exe
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\bin\Debug\Simulacija gravitacije (Maturski rad).pdb
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).csprojAssemblyReference.cache
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija_gravitacije__Maturski_rad_.Form1.resources
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija_gravitacije__Maturski_rad_.Properties.Resources.resources
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).csproj.GenerateResource.cache
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).exe
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).pdb
+C:\Users\pavlo\source\repos\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).csproj.CoreCompileInputs.cache
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\bin\Debug\Simulacija gravitacije (Maturski rad).exe.config
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\bin\Debug\Simulacija gravitacije (Maturski rad).exe
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\bin\Debug\Simulacija gravitacije (Maturski rad).pdb
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).csproj.AssemblyReference.cache
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).csproj.SuggestedBindingRedirects.cache
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija_gravitacije__Maturski_rad_.Form1.resources
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija_gravitacije__Maturski_rad_.Properties.Resources.resources
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).csproj.GenerateResource.cache
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).csproj.CoreCompileInputs.cache
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).exe
+C:\Users\pavlovic\Desktop\Simulacija gravitacije (Maturski rad)\Simulacija gravitacije (Maturski rad)\obj\Debug\Simulacija gravitacije (Maturski rad).pdb
